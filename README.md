@@ -1,4 +1,4 @@
-## Hi, I am Shaki Wijeratne (Shaki de Silva Wijeratne)|ICT Undergraduate|Data Science & AI enthusiast
+## Hi, I am Shakila de Silva Wijeratne|ICT Undergraduate|Data Science & AI enthusiast
 
 I am passionate ICT undergraduate at the Faculty of Technology, University of Sri Jayewardenepura, with interest in:  
   -Software Development  
